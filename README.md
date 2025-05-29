@@ -28,7 +28,7 @@ Install required packages:
 pip install -r requirements.txt
 ```
 
-##🧪 How to Run
+## 🧪 How to Run
 Use the test_model.py script with command-line arguments:
 python test_model.py \
   --model_dir "path/to/models" \
@@ -37,5 +37,5 @@ python test_model.py \
   --age 60 \
   --gender Male
 
-##Output
+## Output
 ![image](https://github.com/user-attachments/assets/667e5c5f-a2b5-4d95-ba4f-9a0bc4930d9f)
