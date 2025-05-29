@@ -36,3 +36,6 @@ python test_model.py \
   --right_img_path "path/to/right.jpg" \
   --age 60 \
   --gender Male
+
+##Output
+![image](https://github.com/user-attachments/assets/667e5c5f-a2b5-4d95-ba4f-9a0bc4930d9f)
